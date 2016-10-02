@@ -1,3 +1,5 @@
 say£¨£©{
 	alert ¡°hello¡±;
 }
+
+hello
